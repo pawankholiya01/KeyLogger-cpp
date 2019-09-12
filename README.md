@@ -12,6 +12,7 @@ Also after every successful mail eraze all the contents of the file "logs.txt" s
 
 ## Note-
 ->This peice of code is written and shared for Learning Purpose only and No harm is Intended . Use it at your own discretion !!
+
 ->Any help , advice will be highly appreciated 
-### Thank You
+### !Thank You!
 
